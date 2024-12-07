@@ -378,4 +378,5 @@ sections:
       text:
         textAlign: left
 addTitleSuffix: false
+socialImage: /images/WhatsApp Image 2024-12-06 at 11.49.47 AM.jpeg
 ---
