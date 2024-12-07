@@ -13,15 +13,62 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: >
+      ###### The Dirisu Family Dynasty has left a profound impact on Okpella, a
+      community in Edo State, Nigeria, renowned for its rich traditions,
+      cultural heritage, and mineral resources. Their contributions,
+      particularly through the leadership of HRM Alhaji (Dr.) Andrew Yesufu
+      Eshioramhe Dirisu, encapsulate a legacy of progress and resilience.
+
+
+      ###### Historical and Cultural Contributions
+
+
+      ###### The Dirisu family is integral to the governance and cultural unity
+      of Okpella. HRM Dirisu, as the *Okuokpellagbe*, served as a unifying
+      symbol. He led various initiatives, including resolving communal disputes
+      and fostering harmony among the diverse religious and ethnic groups in the
+      area. The Dirisu legacy emphasizes respect for tradition and
+      modernization【7†source】【8†source】.
+
+
+      ###### Infrastructure and Economic Development
+
+
+      ###### Under the Dirisu dynasty, Okpella transitioned into an industrial
+      hub due to its abundant limestone and other minerals. HRM Dirisu's
+      advocacy brought about significant infrastructure improvements, such as
+      connecting the town to the national electricity grid. This enabled
+      industrial activities and improved the quality of life for residents. He
+      also established the Okpella Community Bank (now Agbelor Microfinance
+      Bank), promoting economic empowerment【7†source】【9†source】.
+
+
+      ###### Education and Social Development
+
+
+      ###### Education was a cornerstone of HRM Dirisu's reign. He spearheaded
+      the establishment of schools, including Ikpomaza Grammar School, and
+      expanded access to education by increasing the number of government and
+      private schools in the community. These efforts helped shape Okpella into
+      a hub for intellectual and social development【7†source】【8†source】.
+
+
+      ###### Recognition and Legacy
+
+
+      ###### HRM Dirisu's leadership extended beyond Okpella. He held prominent
+      positions such as Vice-President General of the Nigerian Supreme Council
+      for Islamic Affairs and received numerous awards for his contributions to
+      community development, including international recognition from the
+      Afenmai World Congress. His reign of over four decades remains a benchmark
+      for traditional leadership in Nigeria【7†source】【8†source】【9†source】.
+
+
+      ###### The Dirisu Family Dynasty continues to be a beacon of leadership
+      and progress in Okpella, fostering a legacy that intertwines tradition
+      with modernity and development. This legacy is celebrated not only in
+      Okpella but also across Nigeria and among diaspora communities.
     styles:
       self:
         height: auto
@@ -60,7 +107,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: Family Memebers Work Associates
     images:
       - type: ImageBlock
         url: /images/logo1.svg
@@ -189,7 +236,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: Social Media Handles
   - type: DividerSection
     styles:
       self:
@@ -207,21 +254,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Graphic Designer
       - type: Label
-        label: React
+        label: Politicians
       - type: Label
-        label: Microsoft Office
+        label: Armed Forces
       - type: Label
-        label: Next.js
+        label: ''
       - type: Label
-        label: Netlify
+        label: ''
       - type: Label
-        label: Pancakes
+        label: ''
       - type: Label
-        label: C++
+        label: ''
       - type: Label
-        label: Swift
+        label: ''
   - type: DividerSection
     styles:
       self:
@@ -252,87 +299,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
