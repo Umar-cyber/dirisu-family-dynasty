@@ -25,6 +25,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/twitter",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "",
                 "url": "/projects"
             },
