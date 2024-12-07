@@ -10,16 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Twitter",
-                "altText": "",
-                "url": "/Twitter.com",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Learn more",
                 "altText": "",
                 "url": "/Twitter.com",
