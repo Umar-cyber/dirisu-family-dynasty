@@ -7,7 +7,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 38
   url: /images/Abeokuta_Forest_Nursery.jpg
 sections:
   - elementId: ''
