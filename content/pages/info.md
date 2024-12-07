@@ -264,7 +264,7 @@ sections:
       - type: Label
         label: ''
       - type: Label
-        label: Pancakes
+        label: ''
       - type: Label
         label: C++
       - type: Label
