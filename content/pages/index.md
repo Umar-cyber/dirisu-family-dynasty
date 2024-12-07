@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: DIRISU FAMILY DYNASTY
-    subtitle: >-
-      The Dirisu Family Dynasty is closely associated with Okpella in Edo State,
-      Nigeria, where they have played significant roles in leadership, cultural
-      preservation, and community development. 
+    subtitle: "The Dirisu Family Dynasty is closely associated with Okpella in Edo State, Nigeria, where they have played significant roles in leadership, cultural preservation, and community development.\_A prominent figure in this lineage is His Royal Majesty, Alhaji (Dr.) Andrew Yesufu Eshioramhe Dirisu, who held the title of *Okuokpellagbe* of Okpella for decades. His reign marked significant advancements in education, infrastructure, and unity in Okpella, transforming it into an industrial hub within Edo State due to its rich mineral resources.The late monarch was instrumental in the establishment of educational institutions, including the Anglican Grammar School (now Ikpomaza Grammar School), and facilitated the town's connection to the national electricity grid. His leadership fostered peace and industrial growth, attracting companies to Okpella for mineral exploitation.Additionally, Alhaji Dirisu was recognized nationally and internationally, holding positions like Vice-President of the Nigerian Supreme Council for Islamic Affairs and receiving honors for his dedication to community service and development, such as leadership awards from the Afenmai World Congress.The family continues to hold cultural and leadership significance in Okpella, representing the legacy of resilience, innovation, and commitment to communal progress."
     styles:
       self:
         height: auto
