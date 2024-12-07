@@ -21,7 +21,8 @@
             {
                 "type": "Link",
                 "label": "",
-                "url": "/info"
+                "url": "/info",
+                "elementId": "social_links"
             },
             {
                 "type": "Link",
