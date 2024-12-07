@@ -260,7 +260,7 @@ sections:
       - type: Label
         label: Armed Forces
       - type: Label
-        label: Next.js
+        label: ''
       - type: Label
         label: Netlify
       - type: Label
