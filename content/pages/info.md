@@ -13,51 +13,51 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ## The Dirisu Family Dynasty has left a profound impact on Okpella, a
+    text: >
+      ###### The Dirisu Family Dynasty has left a profound impact on Okpella, a
       community in Edo State, Nigeria, renowned for its rich traditions,
       cultural heritage, and mineral resources. Their contributions,
       particularly through the leadership of HRM Alhaji (Dr.) Andrew Yesufu
       Eshioramhe Dirisu, encapsulate a legacy of progress and resilience.
 
 
-      ### Historical and Cultural Contributions
+      ###### Historical and Cultural Contributions
 
 
-      The Dirisu family is integral to the governance and cultural unity of
-      Okpella. HRM Dirisu, as the *Okuokpellagbe*, served as a unifying symbol.
-      He led various initiatives, including resolving communal disputes and
-      fostering harmony among the diverse religious and ethnic groups in the
+      ###### The Dirisu family is integral to the governance and cultural unity
+      of Okpella. HRM Dirisu, as the *Okuokpellagbe*, served as a unifying
+      symbol. He led various initiatives, including resolving communal disputes
+      and fostering harmony among the diverse religious and ethnic groups in the
       area. The Dirisu legacy emphasizes respect for tradition and
       modernization【7†source】【8†source】.
 
 
-      ### Infrastructure and Economic Development
+      ###### Infrastructure and Economic Development
 
 
-      Under the Dirisu dynasty, Okpella transitioned into an industrial hub due
-      to its abundant limestone and other minerals. HRM Dirisu's advocacy
-      brought about significant infrastructure improvements, such as connecting
-      the town to the national electricity grid. This enabled industrial
-      activities and improved the quality of life for residents. He also
-      established the Okpella Community Bank (now Agbelor Microfinance Bank),
-      promoting economic empowerment【7†source】【9†source】.
+      ###### Under the Dirisu dynasty, Okpella transitioned into an industrial
+      hub due to its abundant limestone and other minerals. HRM Dirisu's
+      advocacy brought about significant infrastructure improvements, such as
+      connecting the town to the national electricity grid. This enabled
+      industrial activities and improved the quality of life for residents. He
+      also established the Okpella Community Bank (now Agbelor Microfinance
+      Bank), promoting economic empowerment【7†source】【9†source】.
 
 
-      ### Education and Social Development
+      ###### Education and Social Development
 
 
-      Education was a cornerstone of HRM Dirisu's reign. He spearheaded the
-      establishment of schools, including Ikpomaza Grammar School, and expanded
-      access to education by increasing the number of government and private
-      schools in the community. These efforts helped shape Okpella into a hub
-      for intellectual and social development【7†source】【8†source】.
+      ###### Education was a cornerstone of HRM Dirisu's reign. He spearheaded
+      the establishment of schools, including Ikpomaza Grammar School, and
+      expanded access to education by increasing the number of government and
+      private schools in the community. These efforts helped shape Okpella into
+      a hub for intellectual and social development【7†source】【8†source】.
 
 
-      ### Recognition and Legacy
+      ###### Recognition and Legacy
 
 
-      HRM Dirisu's leadership extended beyond Okpella. He held prominent
+      ###### HRM Dirisu's leadership extended beyond Okpella. He held prominent
       positions such as Vice-President General of the Nigerian Supreme Council
       for Islamic Affairs and received numerous awards for his contributions to
       community development, including international recognition from the
@@ -69,7 +69,6 @@ sections:
       and progress in Okpella, fostering a legacy that intertwines tradition
       with modernity and development. This legacy is celebrated not only in
       Okpella but also across Nigeria and among diaspora communities.
-
     styles:
       self:
         height: auto
