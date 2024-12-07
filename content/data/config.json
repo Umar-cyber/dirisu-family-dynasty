@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/WhatsApp Image 2024-12-06 at 11.49.47 AM.jpeg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -10,40 +10,51 @@
         "primaryLinks": [
             {
                 "type": "Link",
+                "label": "Twitter",
+                "altText": "",
+                "url": "/Twitter.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/Twitter.com",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "",
                 "url": "/info"
             },
             {
                 "type": "Link",
                 "label": "",
-                "url": "/projects"
+                "altText": "",
+                "url": "/twitter",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
                 "label": "",
-                "url": "/blog"
+                "url": "/projects"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
             }
         }
-    }
+    },
+    "defaultSocialImage": "/images/WhatsApp Image 2024-12-06 at 11.49.47 AM.jpeg"
 }
