@@ -4,22 +4,17 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 75
+  opacity: 38
+  url: /images/Abeokuta_Forest_Nursery.jpg
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: DIRISU FAMILY DYNASTY
+    subtitle: "The Dirisu Family Dynasty is closely associated with Okpella in Edo State, Nigeria, where they have played significant roles in leadership, cultural preservation, and community development.\_A prominent figure in this lineage is His Royal Majesty, Alhaji (Dr.) Andrew Yesufu Eshioramhe Dirisu, who held the title of *Okuokpellagbe* of Okpella for decades. His reign marked significant advancements in education, infrastructure, and unity in Okpella, transforming it into an industrial hub within Edo State due to its rich mineral resources.The late monarch was instrumental in the establishment of educational institutions, including the Anglican Grammar School (now Ikpomaza Grammar School), and facilitated the town's connection to the national electricity grid. His leadership fostered peace and industrial growth, attracting companies to Okpella for mineral exploitation.Additionally, Alhaji Dirisu was recognized nationally and internationally, holding positions like Vice-President of the Nigerian Supreme Council for Islamic Affairs and receiving honors for his dedication to community service and development, such as leadership awards from the Afenmai World Congress.The family continues to hold cultural and leadership significance in Okpella, representing the legacy of resilience, innovation, and commitment to communal progress."
     styles:
       self:
         height: auto
@@ -84,7 +79,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -130,7 +125,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Contact...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -163,11 +158,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
