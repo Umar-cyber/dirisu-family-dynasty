@@ -8,6 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/Abeokuta_Forest_Nursery.jpg
 sections:
   - elementId: ''
     colors: colors-f
