@@ -35,7 +35,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "",
                 "altText": "",
                 "url": "/twitter",
                 "showIcon": false,
