@@ -37,11 +37,6 @@
                 "type": "Link",
                 "label": "",
                 "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "",
-                "url": "/blog"
             }
         ],
         "socialLinks": [],
