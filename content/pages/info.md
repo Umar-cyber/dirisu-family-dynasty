@@ -236,7 +236,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
+    subtitle: Social Media Handles
   - type: DividerSection
     styles:
       self:
