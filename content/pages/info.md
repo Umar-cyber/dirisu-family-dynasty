@@ -256,7 +256,7 @@ sections:
       - type: Label
         label: Graphic Designer
       - type: Label
-        label: React
+        label: Politicians
       - type: Label
         label: Microsoft Office
       - type: Label
