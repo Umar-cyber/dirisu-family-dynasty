@@ -262,7 +262,7 @@ sections:
       - type: Label
         label: ''
       - type: Label
-        label: Netlify
+        label: ''
       - type: Label
         label: Pancakes
       - type: Label
