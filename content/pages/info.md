@@ -13,11 +13,63 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## The Dirisu Family Dynasty has left a profound impact on Okpella, a
+      community in Edo State, Nigeria, renowned for its rich traditions,
+      cultural heritage, and mineral resources. Their contributions,
+      particularly through the leadership of HRM Alhaji (Dr.) Andrew Yesufu
+      Eshioramhe Dirisu, encapsulate a legacy of progress and resilience.
+
+
+      ### Historical and Cultural Contributions
+
+
+      The Dirisu family is integral to the governance and cultural unity of
+      Okpella. HRM Dirisu, as the *Okuokpellagbe*, served as a unifying symbol.
+      He led various initiatives, including resolving communal disputes and
+      fostering harmony among the diverse religious and ethnic groups in the
+      area. The Dirisu legacy emphasizes respect for tradition and
+      modernization【7†source】【8†source】.
+
+
+      ### Infrastructure and Economic Development
+
+
+      Under the Dirisu dynasty, Okpella transitioned into an industrial hub due
+      to its abundant limestone and other minerals. HRM Dirisu's advocacy
+      brought about significant infrastructure improvements, such as connecting
+      the town to the national electricity grid. This enabled industrial
+      activities and improved the quality of life for residents. He also
+      established the Okpella Community Bank (now Agbelor Microfinance Bank),
+      promoting economic empowerment【7†source】【9†source】.
+
+
+      ### Education and Social Development
+
+
+      Education was a cornerstone of HRM Dirisu's reign. He spearheaded the
+      establishment of schools, including Ikpomaza Grammar School, and expanded
+      access to education by increasing the number of government and private
+      schools in the community. These efforts helped shape Okpella into a hub
+      for intellectual and social development【7†source】【8†source】.
+
+
+      ### Recognition and Legacy
+
+
+      HRM Dirisu's leadership extended beyond Okpella. He held prominent
+      positions such as Vice-President General of the Nigerian Supreme Council
+      for Islamic Affairs and received numerous awards for his contributions to
+      community development, including international recognition from the
+      Afenmai World Congress. His reign of over four decades remains a benchmark
+      for traditional leadership in Nigeria【7†source】【8†source】【9†source】.
+
+
+      ###### The Dirisu Family Dynasty continues to be a beacon of leadership
+      and progress in Okpella, fostering a legacy that intertwines tradition
+      with modernity and development. This legacy is celebrated not only in
+      Okpella but also across Nigeria and among diaspora communities.
+
     styles:
       self:
         height: auto
