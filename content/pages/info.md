@@ -266,7 +266,7 @@ sections:
       - type: Label
         label: ''
       - type: Label
-        label: C+
+        label: ''
       - type: Label
         label: ''
   - type: DividerSection
