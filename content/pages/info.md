@@ -258,7 +258,7 @@ sections:
       - type: Label
         label: Politicians
       - type: Label
-        label: Microsoft Office
+        label: Armed Forces
       - type: Label
         label: Next.js
       - type: Label
