@@ -254,7 +254,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Graphic Designer
       - type: Label
         label: React
       - type: Label
