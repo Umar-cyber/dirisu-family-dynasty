@@ -16,7 +16,7 @@
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
-                "elementId": "social.icon"
+                "elementId": ""
             },
             {
                 "type": "Link",
