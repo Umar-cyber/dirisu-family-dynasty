@@ -37,7 +37,8 @@
             {
                 "type": "Link",
                 "label": "",
-                "url": "https://twitter.com/netlify"
+                "url": "https://twitter.com/netlify",
+                "altText": "Twitter"
             }
         ],
         "socialLinks": [],
